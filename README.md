@@ -1,5 +1,5 @@
 Ce fichier `main.c` est une copie du fichier `test/main.c` dans mon propre projet «LuminEats».
-Je le met à votre disponibilité pour vous donner une idée des tests que j'écris pour ce projet.
+Je le met à votre disposition pour vous donner une idée des tests que j'écris pour ce projet.
 Je le mettrai à jour au fil de son évolution.
 
 Les fonctions et types ne sont pas coulés dans le béton.
